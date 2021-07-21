@@ -2,7 +2,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.study.kotlin</groupId>
-  <artifacId>standard</artifacId>
+  <artifactId>standard</artifactId>
   <version>1.0.0</version>
 
 
@@ -118,7 +118,7 @@
       </plugin>
 
 
-      <!-- 
+      <!--
         <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
