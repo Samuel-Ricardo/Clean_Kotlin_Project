@@ -3,6 +3,28 @@ A Initial and clean Kotlin Project with essential, is the base to create anny pr
 
 <br>
 
+## Run
+
+to run, just build the project or run the comand...
+
+- got to project folder
+
+``` cmd
+ $ cd "d:\Visual Studio Code\Projects\Kotlin\Bank\Kotlin_and_Java\"
+```
+
+- now run this coman
+
+``` cmd
+$ mvn clean package
+```
+
+<br>
+
+This will run the build and generate the folder /target.
+
+<br>
+
 # Links that will help you
 
  - https://kotlinlang.org/docs/command-line.html#compile-a-library
