@@ -9,6 +9,8 @@
   <properties>
     <kotlin.version>1.5.21</kotlin.version>
     <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
+
+    <main.class>com.study.kotlin.hello_world</main.class>
   </properties>
 
   <dependencies>
